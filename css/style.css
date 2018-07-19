@@ -642,7 +642,7 @@ a:active {
     #award-box .award-content {
         float: right;
         padding:5px;
-        text-align: left;
+        
     }
     #award-box .award:first-child:before,
     #award-box .award:last-child:nth-child(odd):before {
